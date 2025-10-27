@@ -19,8 +19,8 @@ api_id = 27914983
 api_hash = '3ee76f526ada3e20c389ebc9e76c3a68'
 
 # === Config ===
-batch_bot_username = '@Yamdoot_bot'
-target_channel_id = -1003272667997
+batch_bot_username = '@not_those_videos_free_bot'
+target_channel_id = -1003282977217
 media_folder = "media_temp"
 os.makedirs(media_folder, exist_ok=True)
 
